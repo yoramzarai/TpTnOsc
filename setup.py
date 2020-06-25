@@ -6,7 +6,7 @@ setup(name='TpTnOsc',
       long_description=io.open('README.md', encoding='utf-8').read(),
       long_description_content_type='text/markdown',
       keywords='TP TN I-TN oscillatory SEB planar-network',
-      version='1.1',
+      version='1.2',
       author='Yoram Zarai',
       classifiers=[
         'License :: OSI Approved :: MIT License',
