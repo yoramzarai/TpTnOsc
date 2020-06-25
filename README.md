@@ -24,4 +24,22 @@ See [notebook](https://github.com/yoramzarai/TpTnOsc/blob/master/examples/osc_ex
 - mat_call_py_example.m is a Matlab example of using Python functions from utils.py
 
 ## Install
-Install using pip: `pip install TpTnOsc`.
+The simplest way to install TpTnOsc is through pip or conda:
+
+```
+pip install TpTnOsc
+
+# or
+
+conda install --channel "yoramzarai" TpTnOsc
+```
+
+Alternately, TpTnOsc can be installed from github:
+```
+git clone https://github.com/yoramzarai/TpTnOsc.git
+
+cd TpTnOsc
+
+python setup.py install
+```
+
