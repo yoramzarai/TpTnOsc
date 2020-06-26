@@ -31,7 +31,7 @@ pip install TpTnOsc
 
 # or
 
-conda install --channel yoramzarai TpTnOsc
+conda install -c yoramzarai TpTnOsc
 ```
 
 Alternately, TpTnOsc can be installed from github:
